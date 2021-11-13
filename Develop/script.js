@@ -9,6 +9,7 @@ function writePassword() {
   passwordText.value = password;
 
 }
+// Generates a random password 
 function generatePassword(){
   var passwordLength = prompt("Password length: Must be at least 8 characters but can not exceed more than 128.");
   var characterTypes = [];
