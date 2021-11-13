@@ -2,7 +2,7 @@
 ## Description:
 A project that generates a password in Javascript which provides you with different character types that can be included in the password such as being lowercase, uppercase, numeric, and special characters.
 ## Demo:
-[Password Generator]("Assets/Password-Generator.gif")
+![alt text](Assets/Password-Generator.gif "Password Generator")
 ## Links:
 [Password Generator Website](https://vsanomons1.github.io/Password_Generator/)
 ## License:
